@@ -1,0 +1,14 @@
+{
+  "name": "expo_global_install_DO",
+  "version": "1.0.0",
+  "description": "install expo globally in do ",
+  "main": "index.js",
+  "repository": "https://github.com/xavidram/expo_global_install_DO.git",
+  "author": "Xavid Ramirez <xavidram@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npm install -g expo-cli",
+    "build": "echo 'text'"
+  }
+}
